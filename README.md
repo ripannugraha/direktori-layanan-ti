@@ -2,7 +2,6 @@
 
 **Platform Terintegrasi untuk Layanan IT dan Pengembangan Keterampilan Digital**
 
-[![Lisensi](https://img.shields.io/badge/Lisensi-Open%20Source-brightgreen.svg)](LICENSE)
 [![Status Deployment](https://img.shields.io/badge/Status-Deployed%20on%20Netlify-4CC1BD)](https://direktori-ti-workshop.netlify.app/)
 [![Dibuat dengan](https://img.shields.io/badge/Stack-HTML%20%7C%20Tailwind%20CSS%20%7C%20JavaScript-F7DF1E)](https://github.com/username/direktori-workshop-teknologi)
 
