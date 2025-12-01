@@ -1,6 +1,6 @@
 ---
 
-# **Direktori & Workshop Teknologi**
+**Direktori & Workshop Teknologi**
 
 **Platform Terintegrasi untuk Layanan IT dan Pengembangan Keterampilan Digital**
 
